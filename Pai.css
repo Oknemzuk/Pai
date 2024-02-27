@@ -36,10 +36,7 @@ ul {
 .header-container {
   display: flex;
   width: 100%;
-  /* padding-top: 58px; */
-  /* padding-left: 347px;
-  padding-right: 348px;
-  padding-bottom: 256px; */
+ 
   align-items: center;
 }
 
@@ -82,7 +79,6 @@ a {
 .black-line {
   background-color: #0d0d0d;
   height: 474px;
-  /* width: 1280px; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -126,7 +122,6 @@ a {
   display: flex;
   background-color: #f3f3f3;
   height: 858px;
-  /* width: 1280px; */
   padding-top: 195px;
   padding-left: 88px;
   padding-right: 58px;
@@ -137,7 +132,6 @@ a {
   display: flex;
   background-color: #ffffff;
   height: 766px;
-  /* width: 1280px; */
   padding-top: 195px;
   padding-left: 88px;
   padding-right: 58px;
@@ -147,7 +141,6 @@ a {
   display: flex;
   background-color: #0d0d0d;
   height: 1239px;
-  /* width: 1280px; */
   padding-top: 160px;
   padding-left: 43px;
   padding-right: 43px;
