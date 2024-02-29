@@ -191,17 +191,23 @@ a {
   padding-bottom: 164px;
   display: flex;
   flex-direction: column;
-  text-align: left;
-
-  width: 100%;
+  justify-content: center;
   height: 100%;
 }
 
 .magic_product {
   display: flex;
-  justify-content: flex-start;
+
+  font-size: 16px;
+  align-items: baseline;
+  height: 100%;
+  flex-grow: 1;
+  gap: 20px;
   width: 100%;
-  align-self: center;
+}
+.cavicka {
+  display: block;
+  width: 60px;
 }
 .albert {
   color: #ffffff;
@@ -304,6 +310,7 @@ a {
   align-self: center;
   align-items: center;
   justify-content: center;
+  width: 100%;
 }
 
 .hight_volume {
@@ -334,5 +341,6 @@ a {
   padding-left: 30px;
   padding-top: 15px;
   padding-bottom: 50px;
+  padding-right: 15px;
   flex-direction: column;
 }
