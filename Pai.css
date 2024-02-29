@@ -298,3 +298,41 @@ a {
 
   align-items: center;
 }
+
+.blocks {
+  display: flex;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.hight_volume {
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.low_volume {
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.cubic {
+  display: block;
+  width: 62px;
+}
+
+.cub_i_txt {
+  display: flex;
+  align-self: center;
+  align-items: center;
+}
+
+.box {
+  background-color: #242424;
+  width: 386px;
+  height: 319px;
+  padding-left: 30px;
+  padding-top: 15px;
+  padding-bottom: 50px;
+  flex-direction: column;
+}
