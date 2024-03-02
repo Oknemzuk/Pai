@@ -49,7 +49,7 @@ li {
   align-items: center;
 }
 
-.header-subtitle {
+.main_list_subtitle {
   font-size: 55px;
   line-height: 62px;
   font-weight: 200px;
@@ -60,7 +60,7 @@ li {
   display: block;
   width: 62px;
 }
-.nav {
+.header_nav {
   display: flex;
   justify-content: center;
   height: 100%;
@@ -70,14 +70,14 @@ li {
   align-self: center;
   flex-grow: 1;
 }
-.center {
+.main_list {
   display: flex;
   text-align: center;
   flex-direction: column;
   margin-bottom: 256px;
 }
 
-.first_text {
+.main_list_first_text {
   margin-top: 114px;
 }
 a {
@@ -85,7 +85,7 @@ a {
   color: #0d0d0d;
 }
 
-.black-line {
+.partner_list {
   background-color: #0d0d0d;
   height: 474px;
   display: flex;
@@ -94,23 +94,23 @@ a {
   justify-content: center;
 }
 
-.white-txt1 {
+.partner_list_chosen {
   font-size: 24px;
   color: #ffffff;
   text-align: center;
 }
 
-.white-txt2 {
+.partner_list_read {
   font-size: 16px;
   color: #ffffff;
   text-align: center;
 }
 
-.classic-txt {
+.Predict_and_activate_main_title {
   text-align: left;
 }
 
-.regular-title {
+.Predict_and_activate_subt {
   font-size: 58px;
   line-height: 62.3px;
 }
@@ -139,7 +139,7 @@ a {
   padding-bottom: 203px;
 }
 
-.white-back {
+.Predict_and_activate {
   display: flex;
   justify-content: space-around;
   width: 100%;
@@ -150,7 +150,7 @@ a {
   padding-right: 58px;
   padding-bottom: 203px;
 }
-.black-back {
+.trade_offs {
   background-color: #0d0d0d;
   height: 1239px;
   padding-top: 160px;
@@ -159,7 +159,7 @@ a {
   padding-bottom: 160px;
 }
 
-.white-title {
+.trade_offs_white-title {
   font-size: 58px;
   color: #ffffff;
   text-align: center;
@@ -172,17 +172,17 @@ a {
   padding-right: 58px;
 }
 
-.partners {
+.partner_list_partners {
   display: flex;
   justify-content: space-around;
   width: 100%;
 }
 
-.img-P {
+.trade_offs_img-P {
   text-align: center;
 }
 
-.blue-back {
+.quote {
   background-color: #4e5eff;
   height: 757px;
   padding-top: 150px;
@@ -195,7 +195,7 @@ a {
   height: 100%;
 }
 
-.magic_product {
+.quote_magic_product {
   display: flex;
 
   font-size: 16px;
@@ -209,17 +209,17 @@ a {
   display: block;
   width: 60px;
 }
-.albert {
+.quote_autor {
   color: #ffffff;
   font-size: 24px;
 }
 
-.magic {
+.quote_magic {
   font-size: 42px;
   color: #ffffff;
 }
 
-.director {
+.quote_director {
   color: #ffffff;
   font-size: 16px;
 }
@@ -228,7 +228,7 @@ a {
   color: black;
 }
 
-.black-line-2 {
+.demo-line {
   background-color: #0d0d0d;
   height: 362px;
   display: flex;
@@ -236,12 +236,12 @@ a {
   align-items: center;
   justify-content: center;
 }
-.give_demo {
+.demo-line_give_demo {
   font-size: 39px;
   color: #ffffff;
 }
 
-.button {
+.demo-line_button {
   background-color: #ffffff;
   border: none;
   color: black;
@@ -252,7 +252,7 @@ a {
   font-size: 16px;
 }
 
-.final {
+.footer {
   background-color: #ffffff;
   height: 559px;
   padding-top: 84px;
@@ -274,7 +274,7 @@ a {
   width: 62px;
 }
 
-.last_text {
+.footer_last_text {
   font-size: 15px;
   display: flex;
   justify-content: center;
@@ -286,7 +286,7 @@ a {
   margin-top: 160px;
 }
 
-.final_nav {
+.footer_final_nav {
   display: flex;
 
   height: 100%;
@@ -298,14 +298,14 @@ a {
   align-self: baseline;
   flex-grow: 1;
 }
-.logo_navi {
+.footer_logo_navi {
   display: flex;
   width: 100%;
 
   align-items: center;
 }
 
-.blocks {
+.trade_offs_blocks {
   display: flex;
   align-self: center;
   align-items: center;
@@ -334,7 +334,7 @@ a {
   align-items: center;
 }
 
-.box {
+.trade_offs_box {
   background-color: #242424;
   width: 386px;
   height: 319px;
