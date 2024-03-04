@@ -42,7 +42,7 @@ li {
   line-height: 20.99px;
 }
 
-.header-container {
+.header {
   display: flex;
   width: 100%;
 
@@ -70,6 +70,11 @@ li {
   align-self: center;
   flex-grow: 1;
 }
+.header_nav_ul {
+  display: flex;
+  gap: 20px;
+}
+
 .main_list {
   display: flex;
   text-align: center;
